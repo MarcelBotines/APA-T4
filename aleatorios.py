@@ -1,7 +1,7 @@
 '''
     Quarta tarea de APA - Generación de números aleatorios
 
-    Nombre y Apellido: Núria Rodríguez Pardo
+    Nombre y Apellido: Marcel Botines Ramallo
 
     Este documento consiste en crear números aleatorios a partir del método LGC, que permite generar secuencias pseudoaleatorias de características controladas.
     Nos basamos en la siguiente expresión: x = (a * x + c) % m.
